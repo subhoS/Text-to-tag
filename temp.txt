@@ -1,0 +1,366 @@
+ 
+PRIVACY POLICY
+ 
+This privacy policy ("Policy") sets forth Unlock Wellness Private Limited’s ("unlock.fit" or "we" or "us" or "our") and its affiliates' and subsidiaries' commitment to respecting your online privacy and recognises your need for appropriate protection and management of any Personal Information (as defined hereinafter) you share with us. 
+ 
+This Policy is a binding agreement between you and unlock.fit and its affiliates and subsidiaries. The Products and the Platform (both, as defined hereinafter) are owned, operated and provided by us. This Policy sets forth our commitment to respecting your online privacy. By using or accessing the Products on our Platform, whether through a mobile device, mobile application, computer or any other device, you agree to be bound by the terms of use more particularly provided on the Platform (the "Terms Of Use") and the provisions of this Policy. You further consent to unlock.fit's collection, retention, processing, use, disclosure, and protection of Personal Data (as defined hereinafter) and/or Sensitive Personal Data (as defined hereinafter), whether you create an account / login credentials to avail of the Products.
+
+This Policy (together with the Terms of Use and any other document(s) referred to in the Terms of Use) sets out the basis on which any Personal Data we collect from you, or that you provide to us, will be processed by us. Please read this Policy carefully to understand our views, policies and practices regarding your Personal Data and/or Sensitive Personal Data and how we will treat it. 
+
+By accessing, browsing or using the Products and / or registering for a User Account with unlock.fit, you agree to this Policy and you are consenting to unlock.fit's collection, processing, use, disclosure, retention, and protection of your Personal Data and/or Sensitive Personal Data. If you do not provide the Personal Data and/or Sensitive Personal Data unlock.fit requires, unlock.fit may not be able to provide all of its Products to you.
+ 
+The words "you" or "your" or "User" as used herein, refer to all individuals and/or entities browsing, accessing or using the Platform or Products for any reason. 
+ 
+By using, accessing, browsing our Platform and/or using our Products, you agree that you have read the Policy and understood the purpose for which your Personal Data and/or Sensitive Personal Data is being collected and how the same shall be used and provide us with your express consent to such purpose and use. If, at a later date, you wish to withdraw this consent, please send us an email at support@unlock.fit. 
+ 
+By signing up, you further represent that you are 18 (eighteen) years of age or older than the age prescribed in your country of residence for a child.
+ 
+IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE OR ACCESS THE PLATFORM AND/OR OUR PRODUCTS AND SERVICES.
+ 
+This Policy describes the information including Personal Data and/or Sensitive Personal Data, as part of the normal operation of our services, that we collect from you and what may happen to that information. This Policy DOES NOT apply to information that you provide to, or that is collected by, any Third Party (as defined hereinafter), such as social networks that you use which are not in connection with our Products. unlock.fit encourages you to consult directly with such Third Parties about their privacy practices. We have prepared a detailed policy because we believe you should know as much as possible about the Platform, Products and our practices so that you can make informed decisions.
+ 
+This Policy is incorporated into and subject to the provisions of the Terms of Use and the terms not defined here, have the meanings ascribed to them in the Terms of Use. This Policy and the Terms of Use are effective upon your accessing or using the Platform and/or use of our Products. We encourage you to read the terms of the Policy and the Terms of Use in their entirety before you use the Platform or our Products.
+ 
+Your Privacy - Our Commitment
+ 
+1.1	We are extremely proud of our commitment to protect your privacy. We value your trust in us. We will work hard to earn your confidence so that you can use our Products unhesitatingly and recommend us to friends and family. Please read the following policy to understand how your Personal Data and/or Sensitive Personal Data will be treated as you make full use of our Platform.
+ 
+1.2	For the purposes of this Policy, the following terms shall have the meaning set forth below: 
+ 
+"Applicable Laws" shall mean any and all: (a) laws, statutes, constitutions, treaties, rules, regulations, ordinances, codes, guidance, and common law; and (b) all judicial, executive, legislative, administrative or military orders, directives, decrees, injunctions, judgments, permits, agreements, and other legal requirements, in each case, of, with, or adopted or imposed by any Governmental Authority (as defined hereinafter), now or hereafter in effect and, in each case, as amended from time to time.
+ 
+"Application", singular or plural, refers to any of our html-based/internet-based computer programs, smart phone, tablet or personal computer applications and all other software programs made available to the Users by us.
+ 
+"Data Protection Law" means any data protection, data security or privacy law, including, without limitation, the Indian Information Technology Act, 2000 and applicable rules, regulations, EU General Data Protection Regulation 2016/679 (the "GDPR"), if applicable and any laws governing Personal Data (as defined hereinafter), Sensitive Personal Data (as defined hereinafter) or information outbound telephone calls, transmission of electronic mail, transmission of facsimile messages and any other communication-related data protection, data security or privacy laws, to which either Party, as applicable, is subject to in connection with the Terms.
+ 
+"Genetic Information" means information regarding your genotypes generated through processing of your saliva by unlock.fit or by its contractors, successors, or assignees; or otherwise processed by and/or contributed to unlock.fit.
+ 
+"User Account" means the account created and registered on the Platform by the User and which may comprise details pertaining to Personal Data.
+ 
+"Governmental Authority" means any government authority, statutory authority, regulatory authority, government department, agency, commission, board, tribunal or court or other law, rule or regulation making entity/ authority having or purporting to have jurisdiction on behalf of the Republic of India or any state or other subdivision thereof or any municipality, district or other subdivision thereof.
+ 
+"Intellectual Property" or "IP" includes ideas, concepts, creations, discoveries, inventions, improvements, know how, trade or business secrets; trademarks, service marks, designs, utility models, tools, devices, models, methods, procedures, processes, systems, principles, synthesis protocol, algorithms, works of authorship, flowcharts, drawings, books, papers, models, sketches, formulas, proprietary techniques, research projects, copyright, designs, and other confidential and proprietary information, databases, data, documents, instruction manuals, records, memoranda, notes, user guides, in either printed or machine-readable form, whether or not copyrightable or patentable or protectable under any other intellectual property law, or any written or verbal instructions or comments.
+ 
+"Intellectual Property Rights" or "IPR" include: (a) all rights, title, and interest under any statute or under Applicable Laws including patent rights; copyrights including moral rights; and any similar rights in respect of the Intellectual Property, anywhere in the world, whether negotiable or not; (b) any licenses, permissions and grants in connection therewith; (c) applications for any of the foregoing and the right to apply for them in any part of the world; (d) right to obtain and hold appropriate registrations in Intellectual Property anywhere in the world; (e) all extensions and renewals thereof; and (f) causes of action in the past, present or future, related thereto including the rights to damages and profits, due or accrued, arising out of past, present or future infringements or violations thereof and the right to sue for and recover the same.
+ 
+"Opt-Out" means (as the case may be) a tick on our login page indicating your refusal to our use of your Personal Data and the mechanism explained in Clause 13 of this Policy.
+ 
+"Party" refers individually to each of you and unlock.fit.
+ 
+"Parties" refer to both you and unlock.fit jointly.
+ 
+"Personal Data" shall mean any personally identifiable information relating to an identified or identifiable individual, including data that identifies an individual or that could be used to identify, locate, track, or contact an individual. Personal Data includes both directly identifiable information, such as a name, identification number or unique job title, and indirectly identifiable information such as date of birth, unique mobile or wearable device identifier, information that could be used to identify a household, telephone number, key-coded data or online identifiers, such as IP addresses, and includes any data that constitutes "personal data" under the GDPR or similar terms under other Data Protection Law. For the avoidance of doubt, Personal Data includes (without limitation) Personal Identification Information and Genetic Information.
+ 
+"Personal Identification Information" means your name, address, identification number, phone number, and includes any other information by which you may be personally identified.
+
+"Platform" means the unlock.fit website located at https://www.unlock.fit/ or such website or any other  Application powered by unlock.fit to provide the Products and services, but does not include any website or  Application owned or operated by a Third Party that may be accessed from any page on https://www.unlock.fit/ or Application powered by unlock.fit.
+
+"Products" shall mean the wellness products and programs curated/created by unlock.fit that are made available on the Platform and shall include any and all services and features offered on the Platform, or made available by unlock.fit to the User, including services related to DNA testing and analysis including the provision of DNA kit and collection and analysis of saliva sample, blood tests, counselling sessions with experts such as genetic/fitness experts, participation in health and wellness programs etc.
+
+"Sensitive Personal Data or Information" with respect to a person shall mean such personal information which consists of information relating to:  
+
+DNA data/saliva samples;
+Recorded videos uploaded by Users;
+Blood reports and/or any other health assessment reports submitted/uploaded by the User including the nutrition assessment form;
+password; 
+financial information such as bank account or credit card or debit card or other payment instrument details; 
+physical, physiological and mental health condition;
+sexual orientation; 
+medical records and history;
+biometric information; 
+any detail relating to the above clauses as provided to us for providing Products and services; and 
+any of the information received under above clauses by us for processing, stored or processed under lawful contract or otherwise.
+
+"Third Party" shall mean a party which is not a signatory to the Terms of Use and this Policy.
+ 
+1.3	We understand that you entrust us with certain Personal Data and/or Sensitive Personal Data and in exchange for your trust, you expect and deserve our commitment to treat your information with respect and in accordance with the terms of this Policy.
+ 
+Information We Collect
+ 
+2.1 	When you use our Platform or purchase the Products, we may collect, use or disclose the following (set out below) data about you: 
+
+information that you provide by filling in the User Account details or forms including consent forms on the Platform which include your Personal Identification Information as indicated on the forms on the Platform and other information provided at the time of browsing the Platform, registering to use the Platform and purchase our Products, or requesting further services from us and all User Content. In order to authenticate the information provided by you to us, we may also collect copies of government issued identification documents such as passport or driving license as permitted by Applicable Laws;  
+
+if you contact us, send us personal correspondence, such as emails or letters, or if other Users or Third Parties send us correspondence about your activities or postings on the Platform, we may collect and/or store such information;  
+ 
+we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them; 
+
+details of transactions you carry out through the Platform; 
+
+details of your visits to the Platform and the resources that you access;
+
+documents and information uploaded on to the Platform for creating a User Account;
+
+details of bank accounts or credit card information which you link to our Platform and to your User Account in order to process payments; 
+
+geo-location information, IP address, sensor data from your device, information about things near your device, such as wi-fi access points, cell towers, and bluetooth-enabled devices subject to your settings and device permissions; 
+
+information about the apps, browsers, and devices you use to access our Platform, which helps us provide features like automatic updates. The information we collect includes unique identifiers, browser type and settings, device type and settings, operating system, mobile network information including the carrier name and phone number, and application version number;
+
+other additional information provided by you when you fill a form, update or add information to your User Account, respond to surveys, communicate with our customer care team or use other features of our Platform; 
+
+other information as may be required or necessary, for example in connection with a promotion or when you report a problem with the Platform; and
+
+information directly related or incidental to any of the above.
+ 
+Use of your Data
+ 
+3.1 	We are the sole owners of your Personal Data and/or Sensitive Personal Data collected on this Platform. We only have access to and/or collect Personal Data and/or Sensitive Personal Data that you give us or that is collected while accessing our Platform, purchasing our Products, or using our services or via e-mail or other direct contact from you. By using/purchasing our Products, creating a User Account or accessing the Platform, you grant us the permission to collect, use, copy, transmit, store and back-up your Personal Data and/or Sensitive Personal Data for purposes of the services and/or for any other purpose(s) as contemplated by the Policy and the Terms of Use. This is subject to the restrictions in Clause 14 of this Policy. 
+ 
+3.2	The purposes for which Personal Data and/or Sensitive Personal Data may be used by us include:
+ 
+(a)	to enable you to access and use our Platform and Products effectively;
+ 
+(b)	for personalizing nutrition and training for Users;
+ 
+(c)	ensuring that the content of the Platform and Products are presented in the most effective manner for you and for your computers and other devices;
+ 
+(d)	for research purposes, in which case your DNA data may be used in an aggregated non-personally identifiable manner for the purposes of research, product development, further innovation and evolution of products and services by unlock.fit on its own or in association with other organizations/entities;
+ 
+(e)	providing you with alerts, newsletters, materials or information that you have requested or signed up to;
+ 
+(f)	carrying out our obligations arising from any contracts entered into between you and us;
+ 
+(g)	allowing you to purchase the Products offered and participate in other interactive features of our Platform, when you choose to do so;
+ 
+(h)	complying with the Applicable Laws and regulations;
+ 
+(i)	for legal proceedings, including collecting overdue amounts and seeking professional advice;
+ 
+(j)	improving and furthering our Products on the Platform subject to your exercise of the Opt-Out; 
+ 
+(k)	informing you about our latest deals, Products, services, updates and special offers and for promotion and marketing purposes; 
+ 
+(l)	resolving disputes; troubleshooting problems; measuring your interest in the Products provided by us; 
+ 
+(m)	customizing your experience; detecting and protecting us against error, fraud and other criminal activity; 
+ 
+(n)	enforcing the Terms of Use;
+ 
+(o)	providing customer service;
+ 
+(p)	sending service or support messages, security alerts, User Account notifications, updates etc.;
+ 
+(q)	optimizing the Platform and User experience and customizing your experience;
+ 
+(r)	improving our marketing and promotional efforts, to analyze site usage, push relevant advertisements, improve our services content and service offerings, and customize the Platform's content, layout, and services; and 
+ 
+(s)	purposes directly related or incidental to any of the above.
+ 
+4.	Disclosure of Your Personal Data
+ 
+4.1	Personal Data and Sensitive Personal Data will also be used to facilitate communication, and processing of internal administrative and record keeping. We will keep the Personal Data and Sensitive Personal Data we hold confidential and take steps to prevent unauthorized disclosures of the same to the best of our ability. However, you agree we may disclose such information to:
+
+Our relevant experts such as genetics/fitness experts, counsellors, personnel, employees, agents, advisers, auditors, contractors, financial institutions, and service providers to the extent reasonably necessary for the provision of the Products or in connection with any of our operations;
+
+our overseas offices, affiliates, business partners and counterparts (if any);
+
+the requisite persons in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violation of the Terms of Use or the Policy; 
+
+persons under a duty of confidentiality to us;
+
+persons to whom we are required to make disclosure under Applicable Laws and regulations; 
+
+transfer Personal Data about you if we are acquired by or merged with another company. In this event, we will notify you about such change on our Platform before Personal Data about you is transferred, if your Personal Date becomes subject to a different privacy policy and it shall be your responsibility to check the Platform for any such changes;
+
+from time to time, to reveal general statistical information about our Platform and visitors, such as number of visitors, number and type of Products purchased, etc; or
+
+actual or proposed transferees or participants of our services.
+ 
+4.2	Please note that only the Customer and the relevant experts/professionals such as the genetic expert, fitness expert, sports scientist etc. involved in providing services to the Customer shall receive individually identifiable information concerning the results of such services provided. Any individually identifiable genetic information provided in connection with the services rendered shall only be available for the purposes of such services and shall not be disclosed to any Third Party except in aggregate terms that do not disclose the identity of specific individuals. 
+ 
+4.3	All your activity on our Platform from the time you logon until you logoff is encrypted with a SSL certificate to ensure it remains private. We neither capture nor store your credit/debit card information. To make payment for purchases via our online store, you enter your credit/debit card information at the secure payment gateway(s) site(s) listed on the Platform.
+ 
+4.4 	Further, you agree that we may share your Personal Data and/or Sensitive Personal Data for the following activities from time-to-time:
+ 
+Advertisements
+ 
+When you access the Platform, purchase our Products or enter Personal Data and/or Sensitive Personal Data on the Platform, such Personal Data and/or Sensitive Personal Data is used by us in accordance with the terms of this Policy. We may also aggregate (gather up data across all User Accounts) information and disclose such information in a non-personally identifiable manner to advertisers and other Third Parties for other marketing and promotional purposes. We don’t share Personal Data and/or Sensitive Personal Data that personally identifies you with advertisers, such as your name or email, unless you ask us to.
+ 
+Posting to Public Forums
+ 
+Please remember that if you post any of your Personal Data and/or Sensitive Personal Data in public forums of the Platform, such information may be collected and used by others over whom we have no control. You are to please note that these posts may be made available in the public domain.
+ 
+(c)	For Research and Innovation
+ 
+We may also aggregate information and disclose such information in a non-personally identifiable manner to entities such as pharmaceutical companies, research organizations, universities and any other similar organizations/entities for the purpose of research, development and innovation. We don’t share Personal Data and/or Sensitive Personal Data that personally identifies you with such companies, such as your name or email ID, unless you ask us to and we shall ensure that while sharing such information, the User’s anonymity is maintained at all times. 
+ 
+4.5	Provided that we may share your Sensitive Personal Data without obtaining your prior consent with: (i) Government Authorities mandated under the Applicable Laws to obtain information including Sensitive Personal Data or information for the purpose of verification of identity, or for prevention, detection, investigation including cyber incidents, prosecution and punishment of offences; and (ii) any Third Party by an order under the Applicable Laws for the time being in force.
+ 
+Cookies and Similar Technology
+
+We may automatically track certain information about you based upon your behaviour on our Platform or while accessing our Products. You agree that we may use such information to do internal research on our Users' demographics, interests, and behaviour to better understand, protect and serve our Users. This information is compiled and analyzed on an aggregated basis.
+
+The Platform uses cookies to distinguish you from other Users of the Platform. This helps us to provide you with a good experience when you browse the Platform and also allows us to improve the Platform. By continuing to browse the Platform, you are agreeing to our use of cookies. Usage of a cookie is in no way linked to any personally identifiable information on our Platform. 
+
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer and of your other device if you agree. Cookies contain information that is transferred to your computer's hard drive.
+
+We use the following cookies:
+
+Strictly necessary cookies. These are cookies that are required for the operation of the Platform. They include, for example, cookies that enable you to log into secure areas of the Platform or make use of e-billing services.
+
+Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around the Platform when they are using it. This helps us to improve the way the Platform works, for example, by ensuring that Users are finding what they are looking for easily.
+
+Functionality cookies. These are used to recognize you when you return to the Platform. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+
+Commercial cookies. These are used to display personalized advertisements on our websites as well as other Third Party websites. This is based on browsing activities and enables us to understand what destinations you are searching for or the accommodations you have viewed.
+
+Please note that Third Parties (including, for example, advertising networks and providers of external services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+We may use certain Third Party web analytics services on the Platform such as Google Analytics. The service providers that administer these services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the Platform. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to evaluate use of the Platform. These analytic services may use the data collected to contextualize and personalize the marketing materials of their own advertising network. 
+
+Google Analytics
+
+Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google's ability to use and share information collected by Google Analytics is in accordance with its policies: http://www.google.com/policies/privacy/partners/
+
+You can prevent Google’s collection and processing of data by using the Google Ads Settings page or by downloading and installing its browser plug-in (https://tools.google.com/dlpage/gaoptout).
+
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies), you may not be able to access all or parts of the Platform. You further agree that if you send us personal correspondence, such as emails or letters, or if other Users or Third Parties send us correspondence about your activities or postings on the Platform, we may collect and/or store such information.
+ 
+Security
+
+What we do
+
+We are committed to the safety and security of your Personal Data and Sensitive Personal Data. We use a cloud infrastructure provider for storing all information and for hosting the Platform. We place your passwords and Genetic Information in an encrypted database. Some of the safeguards we use to protect your information are firewalls, data encryption and information access controls.
+
+We subject ourselves to regular checks by Third Party security evaluation specialists and restrict access to your Personal Data by our personnel on a need-to-know basis only. Once we have received your Personal Data, we will use strict procedures and security features to try to prevent, as far as is reasonably possible, unauthorized access to your Personal Data.   
+
+You shall accordingly agree that we shall not be held liable for any accidental dissemination of Personal Data that has occurred in spite of our best efforts and procedures to maintain confidentiality. 
+
+What you should and should not do 
+
+	You should keep your username and password strictly confidential at all times and should not share these details with anyone. In public areas, you should exercise caution and not leave your computer/device unattended especially whilst logged into your User Account. The use of established malware and virus protection software and apps for your device is recommended. You should also avoid using public computer terminals to access your User Account, unless you can adequately verify that the terminal is free from spyware and that you can erase all of your information upon exiting the terminal. We will not be liable for any loss or damage arising from unauthorized access to your User Account due to any failure to comply with these precautions.
+
+6.3 	Please remember that if you post any of your Personal Data in public areas of the Platform, such information may be collected and used by others over whom we have no control.
+ 
+7. 	Data Retention
+ 
+7.1 	We may retain Personal Data for as long as it is necessary. It may be archived as long as we believe that the purpose for which it was used still exists or as necessary for our legitimate business interests or for complying with legal obligations. We will retain your Personal Data until the purpose for which that Personal Data was collected is no longer being served by the retention of the Personal Data, and the Personal Data does not need to be retained any longer for any legal or business purpose. 
+ 
+7.2	If you decide to delete your User Account, we will delete all such data within a reasonable time after the termination of your User Account or after cessation of the subject matter to which such Personal Data relates, subject to retention for purposes of complying with Applicable Laws, other uses/purposes of the data as specified in the Terms, including without limitation, for research, development and innovation as stipulated under the Terms, for resolving disputes, enforcing the terms of our Policy and protecting our Intellectual Property Rights.
+ 
+8.	Your Consent and Rights
+ 
+8.1 	You have the following rights:
+ 
+(a)	to check whether we hold Personal Data about you and to access such data;
+ 
+(b) 	to ask for a copy of the Personal Data we hold about you;
+ 
+(c) 	to require us to correct when communicated to us by you in writing, as soon as reasonably practicable any data relating to you that is inaccurate or deficient;
+ 
+(d)	to ascertain our policies and practices in relation to Personal Data and the kind of Personal Data held by us; 
+ 
+(e) 	to object to the use of your Personal Data for marketing purposes or any other purpose that you specifically inform us about. We shall not use your Personal Data for marketing purposes or other specific purpose after you communicate your objection to us; and
+ 
+(f)	to ask us to erase and forget your Personal Data. 
+ 
+8.2 	Please send requests for such objections, access to data, correction of data, information regarding policies and practices and kinds of data held, questions or complaints to legal@unlock.fit. We reserve the right to charge a reasonable fee for processing any data access request(s).
+ 
+9.	Children’s Personal Data
+ 
+	Unless otherwise indicated, you are only allowed to use our Platform and purchase our Products if you are over the age of 18 (eighteen) years or older than the age prescribed in your country of residence for a child. We will only process information about children with the consent of the parents or legal guardian or when the information is provided to us by the parents or legal guardian.
+ 
+10.	Other Applications/Platforms
+ 
+Our Products and Platform may contain links to Third Party applications/websites. Please note that when you click on one of these links, you are entering another application/website over which we have no control and will bear no responsibility. We do not own or control these Third Party applications and when you interact with them you may be providing information directly to them or us or both. Such information provided by you is only processed for the purposes of the legitimate interests pursued by the Third Party. Often these Third Party applications/websites require you to enter your Personal Identification Information and further, use and collect your Personal Data. The Third Party in accordance with its privacy policy and the terms of the offer utilizes this information. Since we do not control the privacy practices of these Third Parties, we encourage you to read the privacy statements/policies on all such applications/websites before deciding to use their services as their policies may differ from our Policy and Terms. You agree that we shall not be liable for any breach of your privacy of Personal Data or loss incurred by your use of these applications/websites. This Policy DOES NOT apply to information that you provide to, or that is collected by, any Third Party, such as social networks that you use which are not in connection with our Products. unlock.fit encourages you to consult directly with such Third Parties about their privacy practices.
+ 
+11.	Changes to this Privacy Policy
+ 
+We reserve the right to update, change or modify this Policy at any time. The amendment to this Policy shall come to effect from the time of such update, change or modification. We, therefore, encourage you to check and read this Policy from time to time to familiarize yourself with such updates.
+ 
+12.	Service Providers
+
+We may use a variety of Third Party service providers to help us provide the Products and services relating to our Platform. Service providers may be used for the following purposes:
+
+for carrying out DNA tests and blood tests;
+
+to authenticate your identification information and documents;
+
+to check information against public databases;
+
+for fraud prevention and risk assessment;
+
+to allow the purchase of Products through Third Party platforms and software tools;
+
+to provide customer service and for marketing; and
+
+to process and handle claims.
+
+	The Third Party service providers shall have limited access to your Personal Data for performance of the above tasks and in accordance with our strict directions and policies.  
+
+13. 	Personal Data Policy
+
+13.1 	You have provided Personal Data and/or Sensitive Personal Data in connection with the Platform and to process any purchase of Products from unlock.fit, where failure to supply such Personal Data may result in the provision for Products being rejected.
+
+13.2 	We intend to use your Personal Data in advertising and marketing of our Products. We may also provide your Personal Data to social media platforms/other persons for their use in direct marketing, whether or not such persons belong to unlock.fit. Please note that the social media platforms and other similar platforms are not controlled or supervised by unlock.fit and any queries regarding how such Third Party platform will process your Personal Data should be directed to such provider. 
+
+13.3 	As further explanation, please note that:
+
+(a) 	Personal Data includes your name, contact details (including address, contact number, email address), products and services information, transaction pattern and behaviour, background and demographic data held by us from time to time.
+
+(b) 	The following classes of services and subjects may be marketed in direct marketing:
+
+(i)	our Products related to the Platform and/or our affiliates; and
+
+(ii)	invitations to events such as webinars.
+
+(c) 	We may conduct direct marketing via fax, email, direct mail, telephone and other means of communication or send e-newsletters to you.
+
+13.4 	HOWEVER, we cannot do so without your consent and request that you provide the same by NOT ticking the Opt-Out box on our Platform login page. If you decide to tick the 'Opt-out' box, you are indicating that you DO NOT wish unlock.fit to use your Personal Data in direct marketing and DO NOT wish to receive direct marketing materials by phone, SMS, mail, email, fax or any other communication channels and DO NOT wish unlock.fit to provide your Personal Data to any other persons for their use in advertising and marketing, whether or not such persons are members of unlock.fit, except where you have applied for or will apply for any service that is provided by unlock.fit jointly with a co-branding partner, such Opt-out will not apply to such co- branding partner to whom you have consented or shall consent to the provision of your Personal Data separately.
+ 
+14.    	Data Protection
+ 
+14.1 	We will: (a) comply with all applicable Data Protection Laws and privacy laws; (b) comply with all standards that relate to Data Protection Law and privacy laws and the privacy and security of your Personal Data; (c) refrain from any action or inaction that could cause breach of any data protection and privacy laws; (d) do and execute, or arrange to be done and execute, each act, document and thing we deem necessary in our business judgment to keep us compliant with the Data Protection Laws and privacy laws; and (e) immediately report theft or loss of Personal Data. 
+ 
+14.2 	Any Personal Data collected or accessed by us shall be limited to that which is strictly necessary to perform our obligations in relation to the Products offered on our Platform or to fulfil any legal requirements. We shall use such Personal Data only as necessary in this regard and not for any other purpose. We shall maintain such Personal Data in strict confidence in accordance with the provisions of this Clause. We shall not share any Personal Data that is collected or possessed by us with any Third Party for any reason except as expressly stated in the Terms of Use and this Policy. 
+ 
+14.3	You agree that other than as stated in this Policy, we shall have the right to collect and/or use or analyse the Personal Data on an anonymised basis and in no way shall the Personal Data be used in a way that can lead to or reveals your identity.
+ 
+15. 	Indemnity and Limitation of Liability
+ 
+15.1 	For any breach of the provisions of this Policy, unlock.fit shall indemnify you in accordance with the indemnification and limitation of liability provisions set forth in the Terms of Use.
+ 
+15.2 	Please note that we endeavour to safeguard User’s Personal Data to ensure that the same is kept private. However, we cannot guarantee the security of User’s Personal Data. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of User’s Personal Information at any time.
+ 
+15.3 	We shall not be liable for any loss or damage sustained by reason of any disclosure (inadvertent or otherwise) of any Personal Data concerning the User’s Account and/or information relating to or regarding online transactions using credit cards/debit cards and/or their verification process and particulars nor for any error, omission or inaccuracy with respect to any information so disclosed and used.    
+ 
+16. 	Grievance Officer 
+ 
+In the event you have any grievances or questions about the Policy or if you wish to make a complaint regarding any violation of the provisions of the Policy and the way your Personal Data is processed, you may contact us at the details as set out below, pursuant to which your grievance shall be acknowledged within 48 (forty eight hours) and redressed within 1 (one) month from the date of receipt of grievance/complaint. 
+ 
+	Name: Shah Fahad Husami  
+	Email ID: fahad@unlock.fit
+ 
+17. 	Dispute Resolution, Governing Law and Jurisdiction
+ 
+17.1 	Any complaint or dispute can be raised in writing to our compliance team at legal@unlock.fit.
+ 
+17.2 	This Policy shall be governed by and construed in accordance with the laws, rules and regulations of India, and the courts of New Delhi shall have exclusive jurisdiction over any disputes arising between the Parties. 
+ 
+17.3	If any disputes or claims arising under or out of or in connection with the execution, interpretation, performance, or non-performance of this Policy or in respect of the scope, validity or application of this Policy, or the subject matter hereof ("Dispute"), representatives of the Parties shall cooperate, in good faith, to attempt to amicably resolve the Dispute.
+ 
+17.4	Any disputes between the Parties regarding this Policy shall be referred to arbitration in accordance with the Arbitration and Conciliation Act, 1996. The arbitral tribunal shall consist of 3 (three) arbitrators with 1 (one) arbitrator to be appointed by each Party and the 3rd (third) arbitrator to be appointed by the 2 (two) appointed arbitrators. The place of the arbitration shall be New Delhi and the language of the arbitration shall be English. The decision of the arbitrators shall be final and binding. The Parties waive any right of appeal to any court, insofar as such waiver can validly be made. 
+ 
+17.5	Each Party to the arbitration shall cooperate with each other Party to the arbitration in making full disclosure of and providing complete access to all information and documents requested by such other Party in connection with such arbitration proceedings, subject only to any confidentiality obligations binding on such Party or any legal privilege applicable to any such information and/or documents. 
+ 
+18. 	Assignment
+ 
+We may assign any of our responsibilities/obligations to any other person without notice to the User, at our sole discretion. However, you shall not assign, sub-license or otherwise transfer any of your rights or obligations under this Policy to any other party, unless a written consent is taken from us. 
+ 
+19.	Severability
+ 
+If any term or provision of this Policy is held by a court of competent jurisdiction to be invalid, void or unenforceable, the remainder of the terms and provisions of this Policy shall remain in full force and effect and shall in no way be affected, impaired or invalidated.
+ 
+20.	Notices
+ 
+Any notice given by either Party to the other must be in writing, by email, and will be deemed to have been given on transmission, unless the recipient can satisfactorily establish that the email was not received by the recipient’s email or web server. Notices to unlock.fit must be sent by email to legal@unlock.fit or to any other email address notified by email to the User by unlock.fit from time to time for such purpose. 
+ 
+21.	Third Parties
+ 
+	No Third Party shall have any right, benefit or entitlement to enforce any terms of this Policy.
+ 
+ 
+Last updated on [.] 2021.  
+ 
+
